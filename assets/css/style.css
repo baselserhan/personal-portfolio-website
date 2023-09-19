@@ -168,4 +168,12 @@ p>a {
         flex-direction: column;
         row-gap: 20px;
     }
+
+    article>h1 {
+        font-size: 2em;
+    }
+
+    article>p {
+        font-size: 0.9em;
+    }
 }
